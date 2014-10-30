@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertCsvToExcel", "ConvertCsvToExcel\ConvertCsvToExcel.csproj", "{40AAFBDB-E118-42B1-9717-DBACF2AE8477}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{CDAA19E0-33BF-4235-9849-BB1BFAE09842}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40AAFBDB-E118-42B1-9717-DBACF2AE8477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AAFBDB-E118-42B1-9717-DBACF2AE8477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AAFBDB-E118-42B1-9717-DBACF2AE8477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AAFBDB-E118-42B1-9717-DBACF2AE8477}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
